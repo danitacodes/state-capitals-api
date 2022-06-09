@@ -6,6 +6,26 @@ const PORT = 8000
 app.use(cors())
 
 const states = {
+    "alabama": {
+        "capital": "Montgomery",
+        "abbreviation": "AL",
+        "cap population": 198218
+    },
+    "alaska": {
+        "capital": "Juneau",
+        "abbreviation": "AK",
+        "cap population": 32113
+    },
+    "arizona": {
+        "capital": "Phoenix",
+        "abbreviation": "AZ",
+        "cap population": 1660272
+    },
+    "arkansas": {
+        "capital": "Little Rock",
+        "abbreviation": "AR",
+        "cap population": 197881
+    },
     "tennessee": {
         "capital": "Nashville",
         "abbreviation": "TN",
