@@ -61,6 +61,26 @@ const states = {
         "abbreviation": "HI",
         "cap population": 347000
     },
+    "idaho": {
+        "capital": "Boise",
+        "abbreviation": "ID",
+        "cap population": 228000
+    },
+    "illinois": {
+        "capital": "Springfield",
+        "abbreviation": "IL",
+        "cap population": 114000
+    },
+    "indiana": {
+        "capital": "Indianapolis",
+        "abbreviation": "IN",
+        "cap population": 867000
+    },
+    "iowa": {
+        "capital": "Des Moines",
+        "abbreviation": "IA",
+        "cap population": 216000
+    },
     "tennessee": {
         "capital": "Nashville",
         "abbreviation": "TN",
