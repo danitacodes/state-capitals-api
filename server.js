@@ -81,6 +81,61 @@ const states = {
         "abbreviation": "IA",
         "cap population": 216000
     },
+    "kansas": {
+        "capital": "Topeka",
+        "abbreviation": "KS",
+        "cap population": 125000
+    },
+    "kentucky": {
+        "capital": "Frankfort",
+        "abbreviation": "KY",
+        "cap population": 27000
+    },
+    "louisiana": {
+        "capital": "Baton Rouge",
+        "abbreviation": "LA",
+        "cap population": 221000
+    },
+    "maine": {
+        "capital": "Augusta",
+        "abbreviation": "ME",
+        "cap population": 18000
+    },
+    "maryland": {
+        "capital": "Annapolis",
+        "abbreviation": "MD",
+        "cap population": 39000
+    },
+    "massachusetts": {
+        "capital": "Boston",
+        "abbreviation": "MA",
+        "cap population": 694000
+    },
+    "michigan": {
+        "capital": "Lansing",
+        "abbreviation": "MI",
+        "cap population": 118000
+    },
+    "minnesota": {
+        "capital": "Saint Paul",
+        "abbreviation": "MN",
+        "cap population": 307000
+    },
+    "mississippi": {
+        "capital": "Jackson",
+        "abbreviation": "MS",
+        "cap population": 164000
+    },
+    "missouri": {
+        "capital": "Jefferson City",
+        "abbreviation": "MO",
+        "cap population": 42000
+    },
+    "montana": {
+        "capital": "Helena",
+        "abbreviation": "MT",
+        "cap population": 32000
+    },
     "tennessee": {
         "capital": "Nashville",
         "abbreviation": "TN",
