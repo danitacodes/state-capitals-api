@@ -8,7 +8,7 @@ defaultOption.text = 'Choose a State';
 dropdown.add(defaultOption);
 dropdown.selectedIndex = 0;
 
-const url = 'https://state-capitals-api.herokuapp.com/api/state-capitals';
+const url = 'https://simple-state-api.herokuapp.com/';
 
 fetch(url)
 .then (
