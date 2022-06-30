@@ -5,7 +5,8 @@ const PORT = 8000
 
 app.use(cors())
 
-const states = {
+const states = [
+    {
     "alabama": {
         "capital": "Montgomery",
         "abbreviation": "AL",
@@ -152,6 +153,8 @@ const states = {
         "cap population": 0
     }
 }
+]
+
 app.get("/", (request, response)=>{
     response.sendFile(__dirname + "/index.html")
 })
