@@ -18,15 +18,16 @@ fetch(url)
             return;
         }
         res.json().then(function(data) {
+            console.log(data)
            
-           let option;
+        //    let option;
 
-            for (let i = 0; i < data.length; i++) {
-                option = document.createElement('option');
-                option.text = data[i].capital;
-                dropdown.add(option)
-            }
-        });
+        //     for (let i = 0; i < data.length; i++) {
+        //         option = document.createElement('option');
+        //         option.text = data;
+        //         dropdown.add(option)
+        //     }
+        // });
     }
 )
 .catch(function(err) {

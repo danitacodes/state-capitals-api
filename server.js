@@ -5,7 +5,7 @@ const PORT = 8000
 
 app.use(cors())
 
-const states = [
+let states = [
     {
     "alabama": {
         "capital": "Montgomery",
